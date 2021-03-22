@@ -9,3 +9,9 @@ Create an account in https://www.themoviedb.org/. Click on the `API` link from t
 
 
 The datasets are collected from [here](https://www.kaggle.com/rounakbanik/the-movies-dataset) and [here](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). However they are already present in the repository. If you don't find any file in repository, then you should download the movie_metadata.csv, movies_metadata.csv and credits.csv from the above links.
+
+
+
+To run this project on your local machine: 
+First install all the requirements present in the requirements.txt
+The command to install the requirements is "pip install -r requirements.txt"
