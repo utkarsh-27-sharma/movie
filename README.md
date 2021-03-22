@@ -13,7 +13,7 @@ The datasets are collected from [here](https://www.kaggle.com/rounakbanik/the-mo
 
 
 To run this project on your local machine: 
-First install all the requirements present in the requirements.txt
+First install all the requirements present in the requirements.txt<br>
 The command to install the requirements is "pip install -r requirements.txt"
 After installing the requirements, type python main.py.<br>
 That's all your project will run on the local machine.
