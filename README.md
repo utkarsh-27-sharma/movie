@@ -15,6 +15,7 @@ The datasets are collected from [here](https://www.kaggle.com/rounakbanik/the-mo
 To run this project on your local machine: 
 First install all the requirements present in the requirements.txt
 The command to install the requirements is "pip install -r requirements.txt"
-After installing the requirements, type python main.py. And that's all your project will run on the local machine.
+After installing the requirements, type python main.py.
+That's all your project will run on the local machine.
 <hr>
 However only english movies are available, upto 2020. If you have any other suggestions or ideas to make the project better, do contribute to the project.
