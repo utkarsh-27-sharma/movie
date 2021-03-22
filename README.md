@@ -5,10 +5,12 @@ You can check it out [here](https://movies-recommender-sys.herokuapp.com/)
 
 You should use your own api key, and should replace your api key with mine. To get the api key follow the following steps:
 <li>
- 1.Create an account in https://www.themoviedb.org/
-2. click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key.
-3. If you are asked for the website URL, just give "NA" if you don't have one.
-4. You will see the API key in your `API` sidebar once your request is approved.
+ <ol>
+ 1. Create an account in https://www.themoviedb.org/
+ 2. Click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key.
+ 3. If you are asked for the website URL, just give "NA" if you don't have one.
+ 4. You will see the API key in your `API` sidebar once your request is approved.
+ </ol>
 </li>
 
 
