@@ -13,7 +13,7 @@ pip install -r requirements.txt
 2. and then type command
 
 ```
-python app.py
+python main.py
 ```
 
 <hr>
